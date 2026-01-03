@@ -2,7 +2,7 @@
 
 **Full-Stack Web Application with Authentication**
 
-> Phase II of **“The Evolution of Todo: From CLI to Distributed Cloud-Native AI Systems”**
+> Phase II of **“Todo APP: From CLI to Distributed Cloud-Native AI Systems”**
 
 ## Overview
 
